@@ -1,3 +1,3 @@
 # test_apps
 
-A new Flutter project.
+Project Ini Hanya Tugas Kuliah 
