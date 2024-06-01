@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "615269838642",
+    "firebase_url": "https://panduan-kota-default-rtdb.firebaseio.com",
+    "project_id": "panduan-kota",
+    "storage_bucket": "panduan-kota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615269838642:android:ae5d376455169468c7712b",
+        "android_client_info": {
+          "package_name": "com.example.test_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiiTRknY6zagsvBdB3o8YRnVGf4NCxPLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
