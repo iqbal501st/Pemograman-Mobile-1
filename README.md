@@ -11,4 +11,4 @@ Step 1
 
 Step 2
 - Menginstall Andrroid Studio untuk mendownloadnya bisa di check disini "https://developer.android.com/"
-- Setelah Memasukan Project Ini Kedalam Android Studionya 
+- Setelah Memasukan Project Ini Kedalam Android Studionya ....
